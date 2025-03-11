@@ -23,6 +23,7 @@ The easiest way to do the next step is to copy and paste this folder contents in
 
 > [!NOTE]
 > Png -> Slower ( By a lot )
+> 
 > Svg -> Sucks
 
 Open a new powershell in the root directory of your project, and execute the following line.
