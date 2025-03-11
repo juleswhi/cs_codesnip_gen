@@ -12,14 +12,14 @@ Start Menu -> Powershell -> Click "Run As Administrator"
 
 Once open, copy the following execution policy into powershell and hit enter.
 
-> [!IMPORTANT]
-> Do not run if you do not know what you are doing 
-
 ```sh
 Set-ExecutionPolicy unrestricted
 ```
 
-The easiest way to do the next step is to copy and paste this folder contents into the *ROOT* directory of your project.Once it is in the root directory, you can choose either PNG or SVG images. 
+> [!IMPORTANT]
+> Change to `restricted` to revert the execution policy changes
+
+The easiest way to do the next step is to copy and paste this folder contents into the *ROOT* directory of your project. Once it is in the root directory, you can choose either PNG or SVG images. 
 
 > [!NOTE]
 > Png -> Slower ( By a lot )
